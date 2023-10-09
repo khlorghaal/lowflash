@@ -5,6 +5,9 @@ this is not a reliable nor scientifically studied solution to photoepilepsy prev
 it must be used in addition to things like: simple avoidance, browser plugins, websites offering accomodations - ie i implore youtube should offer a checkbox for video authors to indicate potential photosensitivity andor loud audio.
 i am personally not epileptic at all. my motivation for this project is much of my artwork is severely photoepilepsy averse.
 
+
+UNDER CONSTRUCTION. NOT WORKING.
+
 currently only works with gnome mutter.
 support for windows, kde, and compton is todo
 
