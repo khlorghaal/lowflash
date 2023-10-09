@@ -1,0 +1,1 @@
+clang -o lowflash compos.c gl3w.o -I gl3w -lX11 -lGL -lXext -lXrandr -lXi -lXxf86vm && ./lowflash
